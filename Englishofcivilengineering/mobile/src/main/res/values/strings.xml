@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">English of civil engineering</string>
+    <string name="t_question" />
+    <string name="b_t1" />
+    <string name="b_t2" />
+    <string name="b_t3" />
+    <string name="b_t4" />
+    <string name="score1" />
+</resources>
